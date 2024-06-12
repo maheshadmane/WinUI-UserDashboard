@@ -1,6 +1,7 @@
 # User Management WinUI 3 Application
 
 This WinUI 3 application is a simple user management tool that fetches user data from an API and displays it on the UI.
+Here we used [jsonplaceholder](https://jsonplaceholder.typicode.com/users) Api.
 
 ## Project Structure
 
@@ -31,11 +32,15 @@ Microsoft.NET.Sdk.WinUI (for WinUI 3 projects)
 Newtonsoft.Json (for JSON serialization)
 
 ## Usage
+
 The application fetches user data from the JSONPlaceholder API using the ApiService class.
 User data is displayed in the MainWindow.xaml using data binding with the MainViewModel class.
 
 ## Screenshots
-MainWindow of the User Management Application
+
+_MainWindow of the User Management Application_
+
+![SC1](https://github.com/maheshadmane/WinUI-UserDashboard/assets/110077949/ee14c64a-3c35-40ba-aafe-cec0f9d6c607)
 
 ## How to Open in Visual Studio 2022
 
@@ -54,4 +59,5 @@ MainWindow of the User Management Application
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
