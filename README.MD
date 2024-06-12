@@ -16,7 +16,7 @@ MainWindow.xaml: Main window of the application where user data is displayed.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/UserManagement-WinUI3.git
+git clone https://github.com/maheshadmane/WinUI-UserDashboard.git
 ```
 
 2. Open the solution in Visual Studio 2022 or later.
