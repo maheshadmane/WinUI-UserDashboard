@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UserManagement.UserApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UserManagement.UserApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
